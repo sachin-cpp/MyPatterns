@@ -1,2 +1,2 @@
-name : Raghav Jindal
+name : Raghav Jindal <br>
 Hacktoberfest
