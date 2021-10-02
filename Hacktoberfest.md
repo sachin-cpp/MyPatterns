@@ -1,4 +1,4 @@
-for hacktoberfest purpose
+Contributors of MyPatterns for hacktoberfest.
 # 2021
 |No.|Topic of Code Contributed|Your github profile|
 |--|--|--|
