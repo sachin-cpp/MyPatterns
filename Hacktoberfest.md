@@ -7,4 +7,5 @@ Contributors of MyPatterns for hacktoberfest.
 |3.|Heart Shape|https://github.com/SoubhPrat17|
 |4.|Square Shape|https://github.com/arshsaluja/|
 |5.|Cone Shape|https://github.com/RaghavJindal13|
+|5.|Pattern|https://github.com/Kr-Raman|
 |--|--|--|
