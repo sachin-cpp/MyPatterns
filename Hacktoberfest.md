@@ -8,5 +8,5 @@ Contributors of MyPatterns for hacktoberfest.
 |4.|Square Shape|https://github.com/arshsaluja/|
 |5.|Cone Shape|https://github.com/RaghavJindal13|
 |6.|Pattern|https://github.com/Kr-Raman|
-|7.|starpattern|https://github.com/dhairya2019|
+|7.|star pattern|https://github.com/dhairya2019|
 |--|--|--|
