@@ -4,4 +4,5 @@ Contributors of MyPatterns for hacktoberfest.
 |--|--|--|
 |1.|Character Alphabet Patterns|https://github.com/aviraw/|
 |2.|Star Pattern & Diamond Pattern| https://github.com/asevarik|
+|3.|Heart Shape|https://github.com/SoubhPrat17|
 |--|--|--|
