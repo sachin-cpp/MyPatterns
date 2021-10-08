@@ -1,0 +1,113 @@
+<!--This program print a alphabet pattern "HELLO" using javaScript -->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>hello pattern</title>
+	<style type="text/css">
+		body{
+			color: white;
+			background-color: #003399;
+			font-size: 20px;
+		}
+		#div1{
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			margin: 13rem 10px 10px 30px;
+		}
+	</style>
+</head>
+<body>
+	<center><div style="font-size: 30px;">✨Hacktoberfest 2021👍</div></center>
+<div id="div1">
+	<div id="c1"></div>
+	<div id="c2"></div>
+	<div id="c3"></div>
+	<div id="c4"></div>
+	<div id="c5"></div>
+</div>
+<script type="text/javascript">
+		var logElem = document.querySelector("#c1");
+		var logElem2 = document.querySelector("#c2");
+		var logElem3 = document.querySelector("#c3");
+		var logElem4 = document.querySelector("#c4");
+		var logElem5 = document.querySelector("#c5");
+		H() 
+		E()
+		L(logElem3)
+		L(logElem4)
+		O()
+		
+		
+
+
+	function H(){
+
+		// document.write("<br>");
+
+		for(let i=1;i<=9;i++){
+			for(let j=1;j<=13;j++){
+				if(j==1 || j==13 || i==5) 
+					logElem.innerHTML += "$&nbsp" ;
+				else
+					logElem.innerHTML +="&nbsp&nbsp&nbsp";
+			}
+			logElem.innerHTML +="<br>";
+		}
+		
+	}
+
+
+	function E(){
+		let fa=20/2;
+		let sa=20/2;
+		for(let i=1;i<=9;i++){
+			for(let j=1;j<=13;j++){
+				if(j==fa ||i==2/2||i==18/2||i==5)
+					logElem2.innerHTML += "$&nbsp" ;
+				else
+					logElem2.innerHTML +="";
+			}
+			logElem2.innerHTML +="<br>";
+		
+		}
+	}
+	function L(val){
+		let divid = val;
+		let fa=20/2;
+		let sa=20/2;
+		// document.write("&nbsp&nbsp"); 
+		// divid.innerHTML +="<br>";
+		for(let i=1;i<=9;i++){
+			for(let j=1;j<=13;j++){
+				if(j==fa ||i==18/2)
+
+					divid.innerHTML += "$&nbsp" ;
+				else
+					divid.innerHTML +="";
+					// document.write("");
+			}
+			divid.innerHTML +="<br>";
+		
+		}
+	}
+
+function O(){
+		// document.write("<br>");
+		for(let i=1;i<=9;i++){
+			for(let j=1;j<=13;j++){
+				if(j==1 || j==13 || i==1||i==9) 
+					logElem5.innerHTML += "$&nbsp" ;
+				else
+					logElem5.innerHTML +="&nbsp&nbsp&nbsp";
+			}
+			logElem5.innerHTML +="<br>";
+		}
+	}
+
+
+	</script>
+
+</body>
+</html>
