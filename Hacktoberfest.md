@@ -13,4 +13,5 @@ Contributors of MyPatterns for hacktoberfest.
 |9.|My Pattern1|https://github.com/ananya07105|
 |10.|HELLO_print_using_$|https://github.com/aish2021|
 |11.| Dimond_Pattern|https://github.com/SidGoyal15555|
-|12.| Random_Pattern|https://github.com/SidGoyal15555|
+|12.| Pascal_Triange|https://github.com/SidGoyal15555|
+|13.| Random_Pattern|https://github.com/SidGoyal15555|
