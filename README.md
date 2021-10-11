@@ -12,6 +12,8 @@ Register for HACKTOBERFEST 2021 [here](https://hacktoberfest.digitalocean.com/?u
 Read [Contributing.md](https://github.com/aviraw/MyPatterns/blob/main/CONTRIBUTING.md)
 Make sure to add your details in [Hacktoberfest File](https://github.com/aviraw/MyPatterns/blob/main/Hacktoberfest.md)
 
+Contributers:
+Ishan Rawat
 ##
 #hacktoberfest
 #hacktoberfest2021
