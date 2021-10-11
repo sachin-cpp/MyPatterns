@@ -1,4 +1,9 @@
 # MyPatterns
+#
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub contributors](https://img.shields.io/github/contributors/aviraw/CodeChef.svg)](https://github.com/aviraw/CodeChef/graphs/contributors)
+#
+
 All pattern printing codes. Any Language.
 
 Don't Write Spammy Code. Else We Won't Merge.
