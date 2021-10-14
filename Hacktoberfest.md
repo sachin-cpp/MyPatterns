@@ -16,3 +16,4 @@ Contributors of MyPatterns for hacktoberfest.
 |12.| Pascal_Triange|https://github.com/SidGoyal15555|
 |13.| Random_Pattern|https://github.com/SidGoyal15555|
 |14.| Hourglass_Pattern|https://github.com/Soumen-Coder|
+|13.| Half_Pyramid|https://github.com/SidGoyal15555|
