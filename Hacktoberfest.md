@@ -17,3 +17,4 @@ Contributors of MyPatterns for hacktoberfest.
 |13.| Random_Pattern|https://github.com/SidGoyal15555|
 |14.| Hourglass_Pattern|https://github.com/Soumen-Coder|
 |13.| Half_Pyramid|https://github.com/SidGoyal15555|
+|14.|1pattern.py|https://github.com/asmiii2806|
