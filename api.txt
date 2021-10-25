@@ -1,0 +1,20 @@
+https://management.azure.com/subscriptions/887c0dd9-fc36-4e4f-baf7-25c2b869971f/resourceGroups/ayush/providers/
+Microsoft.Sql/servers/ayushdom/databases/testayush/resume?api-version=2020-08-01-preview
+
+
+https://management.azure.com/subscriptions/887c0dd9-fc36-4e4f-baf7-25c2b869971f/resourceGroups
+/ayush/providers/Microsoft.Sql/servers/ayushdom/databases/testayush/resume?api-version=2020-08-01-preview
+
+https://management.azure.com/subscriptions/887c0dd9-fc36-4e4f-baf7-25c2b869971f/resourceGroups/
+ayush/providers/Microsoft.Sql/servers/ayushdom/databases/testayush/Resume?api-version=2014-04-01-preview
+
+
+
+
+merge file
+Fiscal year
+trigger 
+
+increment every hour( dynamic)
+
+different blob
