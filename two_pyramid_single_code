@@ -1,0 +1,13 @@
+
+s = int(input("Please enter the number of rows : "))  
+# First, we shall print the first pyramid pattern 
+for i in range(0, s):  
+    for j in range(0, i + 1):  
+        print("*", end=' ')  
+    # After each iteration, we need to change to a new line  
+    print(" ")  
+# Then, we shall print the second pyramid pattern 
+for i in range(s + 1, 0, -1):  
+    for j in range(0, i - 1):  
+        print("*", end=' ')  
+    print(" ")  
