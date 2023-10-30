@@ -1,0 +1,22 @@
+s = int(input("Please enter the number of rows : "))
+  
+t = s - 2  
+# First, drawing the Downward shaped pyramid 
+for i in range(s, -1 , -1):  
+    for j in range(t, 0 , -1):  
+        print(end=" ")  
+    t = t + 1  
+    for j in range(0, i+1):  
+        print("* " , end="")  
+    print()  
+  
+# Then, drawing the Upward shaped pyramid
+t = 2 * s - 2   
+for i in range(0, s):  
+    for j in range(0, t):  
+        print(end=" ")  
+    
+    t = t - 1  
+    for j in range(0, i + 1):  
+        print("* ", end="")  
+    print("")   
