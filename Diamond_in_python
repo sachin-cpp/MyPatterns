@@ -1,0 +1,29 @@
+
+s = int(input("Please enter the number of rows : "))
+  
+# t defines the spaces that we shall be using  
+t = 2 * s - 2   
+# To print the number of rows for the outer loop   
+for i in range(0, s):  
+    # To print the number of spaces for the inner loop
+    for j in range(0, t):  
+        print(end=" ")  
+    
+    t = t - 1  
+    for j in range(0, i + 1):  
+        print("* ", end="")  
+    print("")  
+  
+# Drawing a downward triangle 
+# t defines the spaces that we shall be using  
+t = s - 2  
+  
+for i in range(s, -1, -1):  
+      
+    for j in range(t, 0, -1):  
+        print(end=" ")  
+      
+    t = t + 1  
+    for j in range(0, i + 1):  
+        print("* ", end="")  
+    print("")  
