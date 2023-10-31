@@ -16,5 +16,8 @@ Contributors of MyPatterns for hacktoberfest.
 |12.| Pascal_Triange|https://github.com/SidGoyal15555|
 |13.| Random_Pattern|https://github.com/SidGoyal15555|
 |14.| Hourglass_Pattern|https://github.com/Soumen-Coder|
-|13.| Half_Pyramid|https://github.com/SidGoyal15555|
-|14.|1pattern.py|https://github.com/asmiii2806|
+|15.| Half_Pyramid|https://github.com/SidGoyal15555|
+|16.|1pattern.py|https://github.com/asmiii2806|
+|17.|pascal_triangle.py|https://github.com/TrlRizu|
+|18.| Tables in a triangle pattern |https://github.com/rohanprichard|
+|19.|Obtuse_triangle.cpp|https://github.com/deep-sekhar|

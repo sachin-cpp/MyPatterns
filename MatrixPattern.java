@@ -1,4 +1,3 @@
-import java.io.*; 
 
 class JigSawAcademy
 
@@ -12,7 +11,7 @@ static void printPattern(int n)
 
     // the number of rows & columns to print
 
-    int s = 2 * n – 1; 
+    int s = 2 * n - 1; 
 
     // upper half of matrix
 
@@ -30,9 +29,9 @@ static void printPattern(int n)
 
         { 
 
-            System.out.print(m + ” “); 
+            System.out.print(m + " "); 
 
-            m–; 
+            m--; 
 
         } 
 
@@ -40,23 +39,23 @@ static void printPattern(int n)
 
         for (int k = 0;  
 
-                 k < s – 2 * i; k++)  
+                 k < s - 2 * i; k++)  
 
         { 
 
-            System.out.print(n – i + ” “); 
+            System.out.print(n - i + ""); 
 
         } 
 
         // the increasing part. 
 
-        m = n – i + 1; 
+        m = n - i + 1; 
 
         for (int l = 0; l < i; l++)  
 
         { 
 
-            System.out.print(m + ” “); 
+            System.out.print(m + " "); 
 
             m++; 
 
@@ -68,9 +67,9 @@ static void printPattern(int n)
 
     // lower half of the matrix
 
-    for (int i = s / 2 – 1; 
+    for (int i = s / 2 - 1; 
 
-             i >= 0; i–)  
+             i >= 0; i--)  
 
     { 
 
@@ -82,9 +81,9 @@ static void printPattern(int n)
 
         { 
 
-            System.out.print(m + ” “); 
+            System.out.print(m + " "); 
 
-            m–; 
+            m--; 
 
         } 
 
@@ -92,23 +91,23 @@ static void printPattern(int n)
 
         for (int k = 0;  
 
-                 k < s – 2 * i; k++) 
+                 k < s - 2 * i; k++) 
 
         { 
 
-            System.out.print(n – i + ” “); 
+            System.out.print(n - i + " "); 
 
         } 
 
         // the decreasing part 
 
-        m = n – i + 1; 
+        m = n - i + 1; 
 
         for (int l = 0; l < i; l++)  
 
         { 
 
-            System.out.print(m + ” “); 
+            System.out.print(m + " "); 
 
             m++; 
 
@@ -134,14 +133,14 @@ public static void main (String[] args)
 
 }
 
-Output:
+// Output:
 
-3 3 3 3 3 
+// 3 3 3 3 3 
 
-3 2 2 2 3 
+// 3 2 2 2 3 
 
-3 2 1 2 3 
+// 3 2 1 2 3 
 
-3 2 2 2 3 
+// 3 2 2 2 3 
 
-3 3 3 3 3
+// 3 3 3 3 3

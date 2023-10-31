@@ -1,0 +1,15 @@
+
+s= int(input("Please enter the number of rows : "))
+# Asking user for the number of rows to create the outer loop
+k = 2 * s - 2
+# defining the number of spaces
+# According to the outer loop, values will be changing
+# The number of columns or the inner loop is given below 
+for i in range(s, -1, -1):
+    for j in range(k, 0, -1):
+        print(end=" ")
+    k = k + 1
+    for j in range(0, i + 1):
+        print("*", end=" ")
+    print(" ")
+    # after each row, end line

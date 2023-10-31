@@ -1,0 +1,9 @@
+ 
+s = int(input("Please enter the number of rows : "))  
+# The number of rows is given by the outer loop  
+for i in range(s+1):  
+# The inner loop after each iteration will give the value of i.
+    for j in range(i):  
+        print(i, end=" ")  
+# The above  print statement gives number  
+    print(" ")  
